@@ -1,0 +1,11 @@
+# History and session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Large raw datasets (Keep repo lightweight)
+*.csv
+
+# Deployment secrets & local configs
+.RdsData
+rsconnect/
