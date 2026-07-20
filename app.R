@@ -48,6 +48,39 @@ rules <- list(
 ui <- fluidPage(
   theme = bslib::bs_theme(bootswatch = "cerulean"),
   
+  ui <- fluidPage(
+    theme = bslib::bs_theme(bootswatch = "cerulean"),
+    
+    # Inject Third-Party Tracking Scripts & Meta Tags
+    tags$head(
+      # --- MICROSOFT CLARITY ---
+      tags$script(HTML("
+      (function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+      })(window, document, 'clarity', 'script', 'xpfuw4k1bu');
+    ")),
+      
+      # Custom CSS Styles
+      tags$style(HTML("
+      .hero-banner {
+        width: 100%;
+        height: auto;
+        max-height: 350px;
+        object-fit: cover;
+        border-radius: 6px;
+        margin-bottom: 25px;
+      }
+      .sidebar-panel {
+        background-color: #f8f9fa;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      }
+    "))
+    ),
+  
   tags$head(
     tags$style(HTML("
       .hero-banner {
