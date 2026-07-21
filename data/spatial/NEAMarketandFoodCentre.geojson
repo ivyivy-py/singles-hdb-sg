@@ -1,0 +1,2316 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "MARKET_FOOD_CENTRE",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85295699066083, 1.3360207658096421 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 961,
+				"TOTAL_STALLS" : 36,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 36,
+				"POSTAL_CODE" : "310075",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 75, Lorong 5 Toa Payoh, S(310075)",
+				"NAME_OF_CENTRE" : "Blk 75 Toa Payoh Lorong 5",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "28804B15B61FFD38",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81833417664816, 1.2877834595039153 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 962,
+				"TOTAL_STALLS" : 122,
+				"MP_STALLS" : 122,
+				"CF_STALLS" : 0,
+				"POSTAL_CODE" : "150079",
+				"OWNER" : "HDB",
+				"TYPE" : "MK",
+				"LOCATION_CENTRE" : "Blk 79, Redhill Lane, S(150079)",
+				"NAME_OF_CENTRE" : "Blk 79 Redhill Lane",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "37110F2F3881254A",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80762158884359, 1.273364906455979 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 963,
+				"TOTAL_STALLS" : 40,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 40,
+				"POSTAL_CODE" : "100079",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 79, Telok Blangah Drive, S(100079)",
+				"NAME_OF_CENTRE" : "Blk 79 Telok Blangah Drive",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "03DDF269AFE14015",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.88710267709968, 1.3278341480081686 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 964,
+				"TOTAL_STALLS" : 59,
+				"MP_STALLS" : 43,
+				"CF_STALLS" : 16,
+				"POSTAL_CODE" : "370080",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 80, Circuit Road, S(370080)",
+				"NAME_OF_CENTRE" : "Blk 80 Circuit Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "7D1CFE1B31C61F53",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80790065266949, 1.2738912107264204 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 965,
+				"TOTAL_STALLS" : 64,
+				"MP_STALLS" : 64,
+				"CF_STALLS" : 0,
+				"POSTAL_CODE" : "100082",
+				"OWNER" : "HDB",
+				"TYPE" : "MK",
+				"LOCATION_CENTRE" : "Blk 82, Telok Blangah Drive, S(100082)",
+				"NAME_OF_CENTRE" : "Blk 82 Telok Blangah Drive",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "76ABA9C1D2A8E8F6",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.90633860433309, 1.3022852161912308 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 966,
+				"TOTAL_STALLS" : 198,
+				"MP_STALLS" : 143,
+				"CF_STALLS" : 55,
+				"POSTAL_CODE" : "440084",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 84, Marine Parade Central, S(440084)",
+				"NAME_OF_CENTRE" : "Blk 84 Marine Parade Central",
+				"STATUS" : "Not upgraded",
+				"INC_CRC" : "D2D4C7F3F25C5166",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.93871502759151, 1.3320577697615454 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 967,
+				"TOTAL_STALLS" : 214,
+				"MP_STALLS" : 142,
+				"CF_STALLS" : 72,
+				"POSTAL_CODE" : "460085",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 85, Bedok North Street 4, S(460085)",
+				"NAME_OF_CENTRE" : "Blk 85 Bedok North Street 4",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "C5C32722196695E0",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81831119566189, 1.2873075156550424 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 968,
+				"TOTAL_STALLS" : 96,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 96,
+				"POSTAL_CODE" : "150085",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 85, Redhill Lane, S(150085)",
+				"NAME_OF_CENTRE" : "Blk 85 Redhill Lane",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "2ACE677D83F2FCE4",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.88543884518086, 1.3235797144355141 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 969,
+				"TOTAL_STALLS" : 133,
+				"MP_STALLS" : 93,
+				"CF_STALLS" : 40,
+				"POSTAL_CODE" : "370089",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 89, Circuit Road, S(370089)",
+				"NAME_OF_CENTRE" : "Blk 89 Circuit Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "4A065F62A326E2E6",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8549950810287, 1.3230640283908381 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 970,
+				"TOTAL_STALLS" : 92,
+				"MP_STALLS" : 12,
+				"CF_STALLS" : 80,
+				"POSTAL_CODE" : "320090",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 90, Whampoa Drive, S(320090)",
+				"NAME_OF_CENTRE" : "Blk 90 Whampoa Drive",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "F182FD07FF452A16",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8494849687951, 1.3384173345496262 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 971,
+				"TOTAL_STALLS" : 60,
+				"MP_STALLS" : 32,
+				"CF_STALLS" : 28,
+				"POSTAL_CODE" : "310093",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 93, Lorong 4 Toa Payoh, S(310093)",
+				"NAME_OF_CENTRE" : "Blk 93 Toa Payoh Lorong 4",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "A1BA41CC8687FA5E",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.895587840784, 1.3151090924234687 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 972,
+				"TOTAL_STALLS" : 151,
+				"MP_STALLS" : 79,
+				"CF_STALLS" : 72,
+				"POSTAL_CODE" : "430013",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 13/14, Haig Road, S(430013/430014)",
+				"NAME_OF_CENTRE" : "Blks 13/14 Haig Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "420130AA6CDAA4E8",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83897722017583, 1.3742826190622583 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 973,
+				"TOTAL_STALLS" : 124,
+				"MP_STALLS" : 84,
+				"CF_STALLS" : 40,
+				"POSTAL_CODE" : "560160",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 160/162, Ang Mo Kio Ave 4, S(560160/560162)",
+				"NAME_OF_CENTRE" : "Blks 160/162 Ang Mo Kio Ave 4",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "D1288A449656D92D",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79783554496932, 1.2997307173909427 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 974,
+				"TOTAL_STALLS" : 40,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 40,
+				"POSTAL_CODE" : "141001",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 1A/ 2A/ 3A, Commonwealth Drive, S(141001/141002/141003)",
+				"NAME_OF_CENTRE" : "Blks 1A/ 2A/ 3A Commonwealth Drive",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "1EECAB84CC0A4310",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.77696721902483, 1.4434048227609568 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 975,
+				"TOTAL_STALLS" : 164,
+				"MP_STALLS" : 112,
+				"CF_STALLS" : 52,
+				"POSTAL_CODE" : "730020",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 20/21, Marsiling Lane, S(730020/730021)",
+				"NAME_OF_CENTRE" : "Blks 20/21 Marsiling Lane",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "0E813E9E08B040E9",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.71280068325645, 1.34522406539603 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 976,
+				"TOTAL_STALLS" : 166,
+				"MP_STALLS" : 94,
+				"CF_STALLS" : 72,
+				"POSTAL_CODE" : "641221",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 221A/B, Boon Lay Place, S(641221/642221)",
+				"NAME_OF_CENTRE" : "Blks 221 A/B Boon Lay Place",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "5A666A705C5D667F",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82962341389971, 1.2879705111936857 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 977,
+				"TOTAL_STALLS" : 30,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 30,
+				"POSTAL_CODE" : "161022",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 22A/B, Havelock Road, S(161022/162022)",
+				"NAME_OF_CENTRE" : "Blks 22A/B Havelock Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "27B1CD03E2A42360",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85406020057192, 1.3234281969106985 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 978,
+				"TOTAL_STALLS" : 164,
+				"MP_STALLS" : 112,
+				"CF_STALLS" : 52,
+				"POSTAL_CODE" : "320091",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 91/92, Whampoa Drive, S(320091/320092)",
+				"NAME_OF_CENTRE" : "Blks 91/92 Whampoa Drive",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "F0CFCB2A457E7C28",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.84315952525617, 1.2822718745929864 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 979,
+				"TOTAL_STALLS" : 703,
+				"MP_STALLS" : 477,
+				"CF_STALLS" : 226,
+				"POSTAL_CODE" : "50335",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 335, Smith Street, S(050335)",
+				"NAME_OF_CENTRE" : "Chinatown Market",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "9BDB6A9C7F5C5595",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82841986163255, 1.431526731266786 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 980,
+				"TOTAL_STALLS" : 179,
+				"MP_STALLS" : 123,
+				"CF_STALLS" : 56,
+				"POSTAL_CODE" : "760104",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 104/105, Yishun Ring Road, S(760104/760105)",
+				"NAME_OF_CENTRE" : "Chong Pang Market & Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "A9AA6532E61280D3",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.88605537443924, 1.359083831888168 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 981,
+				"TOTAL_STALLS" : 186,
+				"MP_STALLS" : 120,
+				"CF_STALLS" : 66,
+				"POSTAL_CODE" : "530209",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 209, Hougang Street 21, S(530209)",
+				"NAME_OF_CENTRE" : "Kovan Market & Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "44B94C6BAA16B6C0",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85022513135027, 1.3161599942339943 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 982,
+				"TOTAL_STALLS" : 124,
+				"MP_STALLS" : 74,
+				"CF_STALLS" : 50,
+				"POSTAL_CODE" : "211041",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 41A, Cambridge Road, S(211041)",
+				"NAME_OF_CENTRE" : "Pek Kio Market & Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "23C3F35C9DCD2829",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.84234212416516, 1.284735236499343 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 983,
+				"TOTAL_STALLS" : 87,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 87,
+				"POSTAL_CODE" : "50032",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 32, New Market Road, S(050032)",
+				"NAME_OF_CENTRE" : "People's Park Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "8F7BA8A5C734ED8A",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.71047687645445, 1.333252196135717 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 984,
+				"TOTAL_STALLS" : 20,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 20,
+				"POSTAL_CODE" : "618824",
+				"OWNER" : "JTC",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "45, Quality Road, S(618824)",
+				"NAME_OF_CENTRE" : "Quality Road Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "04D33B89C2267F81",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85060998587294, 1.3061777390370815 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 985,
+				"TOTAL_STALLS" : 403,
+				"MP_STALLS" : 284,
+				"CF_STALLS" : 119,
+				"POSTAL_CODE" : "210665",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 665, Buffalo Road, S(210665)",
+				"NAME_OF_CENTRE" : "Tekka Market",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "D53CAD0480C88844",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80035645976155, 1.3069953509558183 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 986,
+				"TOTAL_STALLS" : 102,
+				"MP_STALLS" : 63,
+				"CF_STALLS" : 39,
+				"POSTAL_CODE" : "149644",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "31, Commonwealth Crescent, S(149644)",
+				"NAME_OF_CENTRE" : "Commonwealth Crescent Market",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "811A39B6FC5046D8",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81407983648724, 1.3241347038952818 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 987,
+				"TOTAL_STALLS" : 32,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 32,
+				"POSTAL_CODE" : "289876",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "2, Adam Road, S(289876)",
+				"NAME_OF_CENTRE" : "Adam Road Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "116C675CF63CAF18",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80448934427014, 1.2862978156268499 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 988,
+				"TOTAL_STALLS" : 88,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 88,
+				"POSTAL_CODE" : "150120",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 120, Bukit Merah Lane 1, S(150120)",
+				"NAME_OF_CENTRE" : "Alexandra Village Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "07A443D60DCCD82A",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.84660686316343, 1.2792184878505273 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 989,
+				"TOTAL_STALLS" : 135,
+				"MP_STALLS" : 1,
+				"CF_STALLS" : 134,
+				"POSTAL_CODE" : "69111",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "National Development Building, Annex B, Telok Ayer Street, S(069111)",
+				"NAME_OF_CENTRE" : "Amoy Street Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "22D31EFE38F7DF35",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.86672495312547, 1.3630850026687606 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 990,
+				"TOTAL_STALLS" : 82,
+				"MP_STALLS" : 36,
+				"CF_STALLS" : 46,
+				"POSTAL_CODE" : "555945",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "49A, Serangoon Garden Way, S(555945)",
+				"NAME_OF_CENTRE" : "Serangoon Garden Market",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "AD3B21F1C44CFF7B",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.72151991984624, 1.3345893785047198 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 991,
+				"TOTAL_STALLS" : 180,
+				"MP_STALLS" : 57,
+				"CF_STALLS" : 123,
+				"POSTAL_CODE" : "618499",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "3, Yung Sheng Road, S(618499)",
+				"NAME_OF_CENTRE" : "Taman Jurong Market & Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "6FD48288A1322B7B",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79771938298933, 1.3005580755321065 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 992,
+				"TOTAL_STALLS" : 117,
+				"MP_STALLS" : 89,
+				"CF_STALLS" : 28,
+				"POSTAL_CODE" : "148813",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "48A, Tanglin Halt Road, S(148813)",
+				"NAME_OF_CENTRE" : "Tanglin Halt Market",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "5840AA5C5256C07D",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83218156721784, 1.2847855701797928 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 993,
+				"TOTAL_STALLS" : 342,
+				"MP_STALLS" : 259,
+				"CF_STALLS" : 83,
+				"POSTAL_CODE" : "168898",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "30, Seng Poh Road, S(168898)",
+				"NAME_OF_CENTRE" : "Tiong Bahru Market",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "9CD672847B5262D5",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83118931073471, 1.292342238120038 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 994,
+				"TOTAL_STALLS" : 32,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 32,
+				"POSTAL_CODE" : "247792",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "70, Zion Road, S(247792)",
+				"NAME_OF_CENTRE" : "Zion Riverside Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "99D3C9BD2785BD50",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80812801459288, 1.2869527547026849 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 995,
+				"TOTAL_STALLS" : 144,
+				"MP_STALLS" : 48,
+				"CF_STALLS" : 96,
+				"POSTAL_CODE" : "150006",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 6, Jalan Bukit Merah, S(150006)",
+				"NAME_OF_CENTRE" : "ABC Brickworks Market & Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "B86732D7CBD62B21",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85407757755758, 1.3010516902224747 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 996,
+				"TOTAL_STALLS" : 234,
+				"MP_STALLS" : 148,
+				"CF_STALLS" : 86,
+				"POSTAL_CODE" : "180270",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 270, Queen Street, S(180270)",
+				"NAME_OF_CENTRE" : "Albert Centre Market & Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "C28105A48AF747D8",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.78748104448137, 1.2974066981176782 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 997,
+				"TOTAL_STALLS" : 32,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 32,
+				"POSTAL_CODE" : "139957",
+				"OWNER" : "JTC",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "73A, Ayer Rajah Crescent, S(139957)",
+				"NAME_OF_CENTRE" : "Ayer Rajah Food Centre 1",
+				"STATUS" : "Not upgraded",
+				"INC_CRC" : "6A05C1D9E1FA9EA3",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7885231238285, 1.2934997598258011 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 998,
+				"TOTAL_STALLS" : 10,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 10,
+				"POSTAL_CODE" : "139956",
+				"OWNER" : "JTC",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "51A, Ayer Rajah Crescent, S(139956)",
+				"NAME_OF_CENTRE" : "Ayer Rajah Food Centre 3",
+				"STATUS" : "Not upgraded",
+				"INC_CRC" : "632AA80E28BF8586",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83993417450466, 1.2882310166568334 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 999,
+				"TOTAL_STALLS" : 21,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 21,
+				"POSTAL_CODE" : "161001",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 1, Jalan Kukoh, S(161001)",
+				"NAME_OF_CENTRE" : "Blk 1 Jalan Kukoh",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "0E1968BA938A752C",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.89009415456503, 1.353847276305833 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1000,
+				"TOTAL_STALLS" : 171,
+				"MP_STALLS" : 120,
+				"CF_STALLS" : 51,
+				"POSTAL_CODE" : "530105",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 105, Hougang Ave 1, S(530105)",
+				"NAME_OF_CENTRE" : "Blk 105 Hougang Ave 1",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "AC5CC8C52F9ADF66",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81864170498996, 1.277366898695681 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1001,
+				"TOTAL_STALLS" : 133,
+				"MP_STALLS" : 77,
+				"CF_STALLS" : 56,
+				"POSTAL_CODE" : "90011",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 11, Telok Blangah Crescent, S(090011)",
+				"NAME_OF_CENTRE" : "Blk 11 Telok Blangah Crescent",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "FBBFA2E866379F04",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82182326169784, 1.2855044646985814 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1002,
+				"TOTAL_STALLS" : 182,
+				"MP_STALLS" : 98,
+				"CF_STALLS" : 84,
+				"POSTAL_CODE" : "151115",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 115, Bukit Merah View, S(151115)",
+				"NAME_OF_CENTRE" : "Blk 115 Bukit Merah View",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "B3FA77063CC6711E",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.88677353556086, 1.3207810800511106 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1003,
+				"TOTAL_STALLS" : 161,
+				"MP_STALLS" : 82,
+				"CF_STALLS" : 79,
+				"POSTAL_CODE" : "380117",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 117, Aljunied Ave 2, S(380117)",
+				"NAME_OF_CENTRE" : "Blk 117 Aljunied Ave 2",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "9B1851D019E895ED",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8447316938455, 1.338092760575782 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1004,
+				"TOTAL_STALLS" : 148,
+				"MP_STALLS" : 108,
+				"CF_STALLS" : 40,
+				"POSTAL_CODE" : "310127",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 127, Lorong 1 Toa Payoh, S(310127)",
+				"NAME_OF_CENTRE" : "Blk 127 Toa Payoh Lorong 1",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "B5AC9A8443A74126",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.94462454944245, 1.3456395427244823 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1005,
+				"TOTAL_STALLS" : 144,
+				"MP_STALLS" : 99,
+				"CF_STALLS" : 45,
+				"POSTAL_CODE" : "521137",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 137, Tampines Street 11, S(521137)",
+				"NAME_OF_CENTRE" : "Blk 137 Tampines Street 11",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "7C6A96778816745E",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80290387775311, 1.2932362498459655 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1006,
+				"TOTAL_STALLS" : 113,
+				"MP_STALLS" : 66,
+				"CF_STALLS" : 47,
+				"POSTAL_CODE" : "140159",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 159, Mei Chin Road, S(140159)",
+				"NAME_OF_CENTRE" : "Blk 159 Mei Chin Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "3048B1BCB10CD464",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.93547364111234, 1.3205008421917948 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1007,
+				"TOTAL_STALLS" : 194,
+				"MP_STALLS" : 130,
+				"CF_STALLS" : 64,
+				"POSTAL_CODE" : "460016",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 16, Bedok South Road, S(460016)",
+				"NAME_OF_CENTRE" : "Blk 16 Bedok South Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "24D6598AB71770C2",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.81699241185922, 1.283692646255982 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1008,
+				"TOTAL_STALLS" : 57,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 57,
+				"POSTAL_CODE" : "150163",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 163, Bukit Merah Central, S(150163)",
+				"NAME_OF_CENTRE" : "Blk 163 Bukit Merah Central",
+				"STATUS" : "Not upgraded",
+				"INC_CRC" : "5FF93DE4F69B26CC",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.7882303156896, 1.310996635759871 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1009,
+				"TOTAL_STALLS" : 230,
+				"MP_STALLS" : 158,
+				"CF_STALLS" : 72,
+				"POSTAL_CODE" : "270020",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 20, Ghim Moh Road, S(270020)",
+				"NAME_OF_CENTRE" : "Blk 20 Ghim Moh Road",
+				"STATUS" : "Not upgraded",
+				"INC_CRC" : "0CE1C855CFE4AA62",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.93054429749219, 1.324818168664196 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1010,
+				"TOTAL_STALLS" : 70,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 70,
+				"POSTAL_CODE" : "462208",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 208B, New Upper Changi Road, S(462208)",
+				"NAME_OF_CENTRE" : "Blk 208B New Upper Changi Road",
+				"STATUS" : "Replacement",
+				"INC_CRC" : "54A4CC2A46AD9E8D",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85433383564761, 1.340252082146037 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1011,
+				"TOTAL_STALLS" : 157,
+				"MP_STALLS" : 77,
+				"CF_STALLS" : 80,
+				"POSTAL_CODE" : "310210",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 210, Lorong 8 Toa Payoh, S(310210)",
+				"NAME_OF_CENTRE" : "Blk 210 Toa Payoh Lorong 8",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "6C760A548892CCF6",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.93322162831844, 1.3270624613393363 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1012,
+				"TOTAL_STALLS" : 196,
+				"MP_STALLS" : 114,
+				"CF_STALLS" : 82,
+				"POSTAL_CODE" : "460216",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 216, Bedok North Street 1, S(460216)",
+				"NAME_OF_CENTRE" : "Blk 216 Bedok North Street 1",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "DC56AC2D1E53425D",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85700371355455, 1.335382605843395 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1013,
+				"TOTAL_STALLS" : 120,
+				"MP_STALLS" : 59,
+				"CF_STALLS" : 61,
+				"POSTAL_CODE" : "310022",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 22, Lorong 7 Toa Payoh, S(310022)",
+				"NAME_OF_CENTRE" : "Blk 22 Toa Payoh Lorong 7",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "2230C8778EBD34E1",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.75975141266883, 1.3118030968636196 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1014,
+				"TOTAL_STALLS" : 80,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 80,
+				"POSTAL_CODE" : "120503",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 503, West Coast Drive, S(120503)",
+				"NAME_OF_CENTRE" : "Blk 503 West Coast Drive",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "9DFC10CCEDC87810",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.75904198181158, 1.31189101702482 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1015,
+				"TOTAL_STALLS" : 40,
+				"MP_STALLS" : 40,
+				"CF_STALLS" : 0,
+				"POSTAL_CODE" : "120502",
+				"OWNER" : "HDB",
+				"TYPE" : "MK",
+				"LOCATION_CENTRE" : "Blk 502, West Coast Drive, S(120502)",
+				"NAME_OF_CENTRE" : "Blk 502 West  Coast Drive",
+				"STATUS" : "Not upgraded",
+				"INC_CRC" : "959458E2F80AB658",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.95547187725171, 1.3203540905179767 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1016,
+				"TOTAL_STALLS" : 32,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 32,
+				"POSTAL_CODE" : "469572",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "1, Bedok Road, S(469572)",
+				"NAME_OF_CENTRE" : "Bedok Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "7D8F3B7F202D047F",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82735397913328, 1.288830850868405 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1017,
+				"TOTAL_STALLS" : 94,
+				"MP_STALLS" : 62,
+				"CF_STALLS" : 32,
+				"POSTAL_CODE" : "169982",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "38A, Beo Crescent, S(169982)",
+				"NAME_OF_CENTRE" : "Beo Crescent Market",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "2D3BE40D977408C8",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85685399087767, 1.3073365454546142 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1018,
+				"TOTAL_STALLS" : 66,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 66,
+				"POSTAL_CODE" : "208877",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "166, Jalan Besar, S(208877)",
+				"NAME_OF_CENTRE" : "Berseh Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "476DF44091FB88C5",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82600359589021, 1.280001821226117 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1019,
+				"TOTAL_STALLS" : 80,
+				"MP_STALLS" : 58,
+				"CF_STALLS" : 22,
+				"POSTAL_CODE" : "160112",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 112, Jalan Bukit Merah, S(160112)",
+				"NAME_OF_CENTRE" : "Blk 112 Jalan Bukit Merah",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "E1F30EFBB9CC7BFD",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.87162032575121, 1.3150280641904002 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1020,
+				"TOTAL_STALLS" : 144,
+				"MP_STALLS" : 60,
+				"CF_STALLS" : 84,
+				"POSTAL_CODE" : "380017",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 17, Upper Boon Keng Road, S(380017)",
+				"NAME_OF_CENTRE" : "Blk 17 Upper Boon Keng Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "E89567B5F8B76E78",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.77077281590697, 1.3143806546682972 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1021,
+				"TOTAL_STALLS" : 77,
+				"MP_STALLS" : 59,
+				"CF_STALLS" : 18,
+				"POSTAL_CODE" : "120353",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 353, Clementi Ave 2, S(120353)",
+				"NAME_OF_CENTRE" : "Blk 353 Clementi Ave 2",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "B88DAE4C420D9F16",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.90426225727037, 1.3203283582527159 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1022,
+				"TOTAL_STALLS" : 110,
+				"MP_STALLS" : 68,
+				"CF_STALLS" : 42,
+				"POSTAL_CODE" : "402004",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 4A, Eunos Crescent, S(402004)",
+				"NAME_OF_CENTRE" : "Blk 4A Eunos Crescent",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "B47E8C9BEC943C3C",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8431670298766, 1.2766146495507629 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1023,
+				"TOTAL_STALLS" : 104,
+				"MP_STALLS" : 52,
+				"CF_STALLS" : 52,
+				"POSTAL_CODE" : "81006",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 6, Tanjong Pagar Plaza, S(081006)",
+				"NAME_OF_CENTRE" : "Blk 6 Tanjong Pagar Plaza",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "134660B154B14F64",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.88504356022288, 1.3264499741241693 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1024,
+				"TOTAL_STALLS" : 106,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 106,
+				"POSTAL_CODE" : "370079",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blks 79/79A, Circuit Road, S(370079/371079)",
+				"NAME_OF_CENTRE" : "Blks 79/79A Circuit Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "2B25B172D4BE2DFE",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.98824525398364, 1.3891516474295067 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1025,
+				"TOTAL_STALLS" : 129,
+				"MP_STALLS" : 42,
+				"CF_STALLS" : 87,
+				"POSTAL_CODE" : "500002",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 2/3, Changi Village Road, S(500002/500003)",
+				"NAME_OF_CENTRE" : "Blks 2 & 3 Changi Village Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "50F2B6ED7D29FD93",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.77600731109843, 1.3394524205511975 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1026,
+				"TOTAL_STALLS" : 179,
+				"MP_STALLS" : 95,
+				"CF_STALLS" : 84,
+				"POSTAL_CODE" : "588215",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "51, Upper Bukit Timah Road, S(588215)",
+				"NAME_OF_CENTRE" : "Bukit Timah Market",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "C171EFF3BEA88C4E",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8665270206699, 1.3642325151486436 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1027,
+				"TOTAL_STALLS" : 36,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 36,
+				"POSTAL_CODE" : "557269",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "20, Kensington Park Road, S(557269)",
+				"NAME_OF_CENTRE" : "Chomp Chomp Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "34D57D400F3A4A1A",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.90182521370504, 1.3094142741289727 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1028,
+				"TOTAL_STALLS" : 30,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 30,
+				"POSTAL_CODE" : "424768",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "271, Onan Road, S(424768)",
+				"NAME_OF_CENTRE" : "Dunman Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "6084E14B4764FC87",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.93479974009739, 1.3072610720884223 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1029,
+				"TOTAL_STALLS" : 63,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 63,
+				"POSTAL_CODE" : "468960",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "1220, East Coast Parkway, S(468960)",
+				"NAME_OF_CENTRE" : "East Coast Lagoon Food Village",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "0DC2992A52FFD0BD",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.89797741572308, 1.3167251588993387 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1030,
+				"TOTAL_STALLS" : 365,
+				"MP_STALLS" : 302,
+				"CF_STALLS" : 63,
+				"POSTAL_CODE" : "402001",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "1, Geylang Serai, S(402001)",
+				"NAME_OF_CENTRE" : "Geylang Serai Market",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "510E95C63910B419",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.86387737849601, 1.3031415170247282 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1031,
+				"TOTAL_STALLS" : 223,
+				"MP_STALLS" : 111,
+				"CF_STALLS" : 112,
+				"POSTAL_CODE" : "199583",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "505, Beach Road, S(199583)",
+				"NAME_OF_CENTRE" : "Golden Mile Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "A8C7917E7CD8DBA4",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79277377894006, 1.3081178097428563 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1032,
+				"TOTAL_STALLS" : 106,
+				"MP_STALLS" : 61,
+				"CF_STALLS" : 45,
+				"POSTAL_CODE" : "270044",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 44, Holland Drive, S(270044)",
+				"NAME_OF_CENTRE" : "Blk 44 Holland Drive",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "2A1CCE8D0CF8D470",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79483380688974, 1.3111489675255468 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1033,
+				"TOTAL_STALLS" : 69,
+				"MP_STALLS" : 48,
+				"CF_STALLS" : 21,
+				"POSTAL_CODE" : "277700",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "1, Lorong Mambong, S(277700)",
+				"NAME_OF_CENTRE" : "Holland Village Market & Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "185550BFB6F4A070",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.84582381073758, 1.2852990869358154 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1034,
+				"TOTAL_STALLS" : 143,
+				"MP_STALLS" : 40,
+				"CF_STALLS" : 103,
+				"POSTAL_CODE" : "51531",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 531A, Upper Cross Street, S(051531)",
+				"NAME_OF_CENTRE" : "Hong Lim Market & Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "0FD5B62D96F89474",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.88401830594455, 1.3073440158193488 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1035,
+				"TOTAL_STALLS" : 94,
+				"MP_STALLS" : 78,
+				"CF_STALLS" : 16,
+				"POSTAL_CODE" : "397972",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "17, Old Airport Road, S(397972)",
+				"NAME_OF_CENTRE" : "Kallang Estate Market",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "919EB3E8EE6ED22D",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.84998368421797, 1.2838854132389403 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1036,
+				"TOTAL_STALLS" : 76,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 76,
+				"POSTAL_CODE" : "48940",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "50, Market Street, Golden Shoe Multi-Storey Car Park, 2nd/3rd Storey S(048940)",
+				"NAME_OF_CENTRE" : "Market Street Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "D518E2DF89A11B89",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.84473351489792, 1.280330249904215 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1037,
+				"TOTAL_STALLS" : 106,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 106,
+				"POSTAL_CODE" : "69184",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "1, Kadayanallur Street, S(069184)",
+				"NAME_OF_CENTRE" : "Maxwell Food Centre",
+				"STATUS" : "Not upgraded",
+				"INC_CRC" : "409122298EF93377",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83941249944279, 1.3121858733769327 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1038,
+				"TOTAL_STALLS" : 83,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 83,
+				"POSTAL_CODE" : "229495",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "500, Clemenceau Ave North, S(229495)",
+				"NAME_OF_CENTRE" : "Newton Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "1A543DB5D6CED7EC",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.86390934650298, 1.3056343453160728 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1039,
+				"TOTAL_STALLS" : 119,
+				"MP_STALLS" : 82,
+				"CF_STALLS" : 37,
+				"POSTAL_CODE" : "198783",
+				"OWNER" : "Government",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "861, North Bridge Road, S(198783)",
+				"NAME_OF_CENTRE" : "North Bridge Road Market & Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "791D32393943BC77",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.79140271985561, 1.2759075588688504 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1040,
+				"TOTAL_STALLS" : 45,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 45,
+				"POSTAL_CODE" : "118543",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "121, Pasir Panjang Road, S(118543)",
+				"NAME_OF_CENTRE" : "Pasir Panjang Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "7A4F421C2CA95F3F",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82899325724964, 1.3723841975366708 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1041,
+				"TOTAL_STALLS" : 36,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 36,
+				"POSTAL_CODE" : "574419",
+				"OWNER" : "Government",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "590, Upper Thomson Road, S(574419)",
+				"NAME_OF_CENTRE" : "Sembawang Hills Food Centre",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "8195DEA5CD160511",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83914255829183, 1.3668100049572174 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1042,
+				"TOTAL_STALLS" : 111,
+				"MP_STALLS" : 101,
+				"CF_STALLS" : 10,
+				"POSTAL_CODE" : "564226",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 226D, Ang Mo Kio Ave 1, S(564226)",
+				"NAME_OF_CENTRE" : "Blk 226D Ang Mo Kio Ave 1",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "96FAAC9AAB372E8F",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.84002222808955, 1.3671965370004393 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1043,
+				"TOTAL_STALLS" : 29,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 29,
+				"POSTAL_CODE" : "568226",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 226H, Ang Mo Kio Street 22, S(568226)",
+				"NAME_OF_CENTRE" : "Blk 226H Ang Mo Kio Street 22",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "3983AD8B5B4C6068",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.73773840345983, 1.3434881256069369 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1044,
+				"TOTAL_STALLS" : 147,
+				"MP_STALLS" : 87,
+				"CF_STALLS" : 60,
+				"POSTAL_CODE" : "600254",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 254, Jurong East Street 24, S(600254)",
+				"NAME_OF_CENTRE" : "Blk 254 Jurong East Street 24",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "5A1B2D80079C8D80",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.86302092555596, 1.3192166867721016 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1045,
+				"TOTAL_STALLS" : 193,
+				"MP_STALLS" : 105,
+				"CF_STALLS" : 88,
+				"POSTAL_CODE" : "330029",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 29, Bendemeer Road, S(330029)",
+				"NAME_OF_CENTRE" : "Blk 29 Bendemeer Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "09B019844E18A0CA",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.83696451400358, 1.3520255628362494 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1046,
+				"TOTAL_STALLS" : 82,
+				"MP_STALLS" : 51,
+				"CF_STALLS" : 31,
+				"POSTAL_CODE" : "570320",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 320, Shunfu Road, S(570320)",
+				"NAME_OF_CENTRE" : "Blk 320 Shunfu Road",
+				"STATUS" : "Not upgraded",
+				"INC_CRC" : "FB0614F285CBED30",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.84806730049579, 1.363845167386306 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1047,
+				"TOTAL_STALLS" : 118,
+				"MP_STALLS" : 86,
+				"CF_STALLS" : 32,
+				"POSTAL_CODE" : "560341",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 341, Ang Mo Kio Ave 1, S(560341)",
+				"NAME_OF_CENTRE" : "Blk 341 Ang Mo Kio Ave 1",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "627BD8BA2A4BEBAF",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.73114480619329, 1.3451881120087776 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1048,
+				"TOTAL_STALLS" : 225,
+				"MP_STALLS" : 169,
+				"CF_STALLS" : 56,
+				"POSTAL_CODE" : "600347",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 347, Jurong East Ave 1, S(600347)",
+				"NAME_OF_CENTRE" : "Blk 347 Jurong East Ave 1",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "6D19E616EDA1B689",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.82199823712702, 1.2725891448479043 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1049,
+				"TOTAL_STALLS" : 53,
+				"MP_STALLS" : 29,
+				"CF_STALLS" : 24,
+				"POSTAL_CODE" : "90036",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 36, Telok Blangah Rise, S(090036)",
+				"NAME_OF_CENTRE" : "Blk 36 Telok Blangah Rise",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "1634482A4473E872",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.74274735198563, 1.3208317211187113 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1050,
+				"TOTAL_STALLS" : 80,
+				"MP_STALLS" : 52,
+				"CF_STALLS" : 28,
+				"POSTAL_CODE" : "601037",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 37A, Teban Gardens Road, S(601037)",
+				"NAME_OF_CENTRE" : "Blk 37A Teban Gardens Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "DB9E22E35FA0AF9F",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85528830149764, 1.3626541004343604 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1051,
+				"TOTAL_STALLS" : 142,
+				"MP_STALLS" : 102,
+				"CF_STALLS" : 40,
+				"POSTAL_CODE" : "560409",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 409, Ang Mo Kio Ave 10, S(560409)",
+				"NAME_OF_CENTRE" : "Blk 409 Ang Mo Kio Ave 10",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "274C6C30622017F6",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.76451719342104, 1.3133196935787859 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1052,
+				"TOTAL_STALLS" : 143,
+				"MP_STALLS" : 92,
+				"CF_STALLS" : 51,
+				"POSTAL_CODE" : "120448",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 448, Clementi Ave 3, S(120448)",
+				"NAME_OF_CENTRE" : "Blk 448 Clementi Ave 3",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "60D7585E3CD0532A",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85630867728055, 1.3682513033780996 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1053,
+				"TOTAL_STALLS" : 222,
+				"MP_STALLS" : 184,
+				"CF_STALLS" : 38,
+				"POSTAL_CODE" : "561453",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 453A, Ang Mo Kio Ave 10, S(561453)",
+				"NAME_OF_CENTRE" : "Blk 453A Ang Mo Kio Ave 10",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "2342811282C5567C",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.87930985963374, 1.3170350274674942 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1054,
+				"TOTAL_STALLS" : 144,
+				"MP_STALLS" : 78,
+				"CF_STALLS" : 66,
+				"POSTAL_CODE" : "380049",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 49, Sims Place, S(380049)",
+				"NAME_OF_CENTRE" : "Blk 49 Sims Place",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "36E83AE525C6D930",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.88390974965905, 1.3023453381646906 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1055,
+				"TOTAL_STALLS" : 66,
+				"MP_STALLS" : 30,
+				"CF_STALLS" : 36,
+				"POSTAL_CODE" : "432004",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 4A, Jalan Batu, S(432004)",
+				"NAME_OF_CENTRE" : "Blk 4A Jalan Batu",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "FF114CC3713C568B",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.77007681196069, 1.4410842154426942 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1056,
+				"TOTAL_STALLS" : 78,
+				"MP_STALLS" : 0,
+				"CF_STALLS" : 78,
+				"POSTAL_CODE" : "731004",
+				"OWNER" : "HDB",
+				"TYPE" : "HC",
+				"LOCATION_CENTRE" : "Blk 4A, Woodlands Centre Road, S(731004)",
+				"NAME_OF_CENTRE" : "Blk 4A Woodlands Centre Road",
+				"STATUS" : "Not upgraded",
+				"INC_CRC" : "CC262308E4F22060",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.71844368450239, 1.3496572879772837 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1057,
+				"TOTAL_STALLS" : 190,
+				"MP_STALLS" : 130,
+				"CF_STALLS" : 60,
+				"POSTAL_CODE" : "640505",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 505, Jurong West Street 52, S(640505)",
+				"NAME_OF_CENTRE" : "Blk 505 Jurong West Street 52",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "F99BD94CB737D547",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.91573703958302, 1.3057297369080327 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1058,
+				"TOTAL_STALLS" : 111,
+				"MP_STALLS" : 87,
+				"CF_STALLS" : 24,
+				"POSTAL_CODE" : "441050",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 50A, Marine Terrace, S(441050)",
+				"NAME_OF_CENTRE" : "Blk 50A Marine Terrace",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "77B7962CA0184F3B",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.88573167801405, 1.3081098251115713 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1059,
+				"TOTAL_STALLS" : 222,
+				"MP_STALLS" : 54,
+				"CF_STALLS" : 168,
+				"POSTAL_CODE" : "390051",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 51, Old Airport Road, S(390051)",
+				"NAME_OF_CENTRE" : "Blk 51 Old Airport Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "831EBDD33BD3F946",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.93045597164073, 1.3330094778822423 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1060,
+				"TOTAL_STALLS" : 125,
+				"MP_STALLS" : 83,
+				"CF_STALLS" : 42,
+				"POSTAL_CODE" : "460511",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 511, Bedok North Street 3, S(460511)",
+				"NAME_OF_CENTRE" : "Blk 511 Bedok North Street 3",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "6C95E489153EF97C",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.85445796431361, 1.372772089820446 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1061,
+				"TOTAL_STALLS" : 150,
+				"MP_STALLS" : 100,
+				"CF_STALLS" : 50,
+				"POSTAL_CODE" : "560527",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 527, Ang Mo Kio Ave 10, S(560527)",
+				"NAME_OF_CENTRE" : "Blk 527 Ang Mo Kio Ave 10",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "8421593013DA4021",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.92462132065832, 1.3320672671941451 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1062,
+				"TOTAL_STALLS" : 124,
+				"MP_STALLS" : 84,
+				"CF_STALLS" : 40,
+				"POSTAL_CODE" : "460538",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 538, Bedok North Street 3, S(460538)",
+				"NAME_OF_CENTRE" : "Blk 538 Bedok North Street 3",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "578B48645C1F72A1",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.94112528450631, 1.3242008820651516 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1063,
+				"TOTAL_STALLS" : 195,
+				"MP_STALLS" : 147,
+				"CF_STALLS" : 48,
+				"POSTAL_CODE" : "461058",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 58, New Upper Changi Road, S(461058)",
+				"NAME_OF_CENTRE" : "Blk 58 New Upper Changi Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "6D5F387DBFA6F889",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8406280943931, 1.3809906014185351 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1064,
+				"TOTAL_STALLS" : 218,
+				"MP_STALLS" : 166,
+				"CF_STALLS" : 52,
+				"POSTAL_CODE" : "560628",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 628, Ang Mo Kio Ave 4, S(560628)",
+				"NAME_OF_CENTRE" : "Blk 628 Ang Mo Kio Ave 4",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "27DDFA1E732DEBB8",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.91405397906551, 1.333159291179886 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1065,
+				"TOTAL_STALLS" : 111,
+				"MP_STALLS" : 75,
+				"CF_STALLS" : 36,
+				"POSTAL_CODE" : "470630",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 630, Bedok Reservoir Road, S(470630)",
+				"NAME_OF_CENTRE" : "Blk 630 Bedok Reservoir Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "7D8300C33BD9A02E",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.87000502438272, 1.3214631112680744 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1066,
+				"TOTAL_STALLS" : 211,
+				"MP_STALLS" : 127,
+				"CF_STALLS" : 84,
+				"POSTAL_CODE" : "330069",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 69, Geylang Bahru, S(330069)",
+				"NAME_OF_CENTRE" : "Blk 69 Geylang Bahru",
+				"STATUS" : "Not upgraded",
+				"INC_CRC" : "870C4347BE39F0BC",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.80563642455965, 1.3162457528888987 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1067,
+				"TOTAL_STALLS" : 108,
+				"MP_STALLS" : 68,
+				"CF_STALLS" : 40,
+				"POSTAL_CODE" : "260007",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 7, Empress Road, S(260007)",
+				"NAME_OF_CENTRE" : "Blk 7 Empress Road",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "D718436C85F3AAA0",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.84651031249359, 1.3721725844378232 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1068,
+				"TOTAL_STALLS" : 123,
+				"MP_STALLS" : 78,
+				"CF_STALLS" : 45,
+				"POSTAL_CODE" : "560724",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 724, Ang Mo Kio Ave 6, S(560724)",
+				"NAME_OF_CENTRE" : "Blk 724 Ang Mo Kio Ave 6",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "93616A592D1E269C",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.76425075430964, 1.3038107392121832 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1069,
+				"TOTAL_STALLS" : 195,
+				"MP_STALLS" : 135,
+				"CF_STALLS" : 60,
+				"POSTAL_CODE" : "120726",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 726, Clementi West Street 2, S(120726)",
+				"NAME_OF_CENTRE" : "Blk 726 Clementi West Street 2",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "6712BAB9FB414D33",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 103.8520035099266, 1.3345507486923727 ]
+			},
+			"properties" : {
+				"OBJECTID_1" : 1070,
+				"TOTAL_STALLS" : 90,
+				"MP_STALLS" : 80,
+				"CF_STALLS" : 10,
+				"POSTAL_CODE" : "310074",
+				"OWNER" : "HDB",
+				"TYPE" : "MHC",
+				"LOCATION_CENTRE" : "Blk 74, Lorong 4 Toa Payoh, S(310074)",
+				"NAME_OF_CENTRE" : "Blk 74 Toa Payoh Lorong 4",
+				"STATUS" : "Upgraded",
+				"INC_CRC" : "70A8297B95D563DA",
+				"FMEL_UPD_D" : "20141226094235"
+			}
+		}
+	]
+}

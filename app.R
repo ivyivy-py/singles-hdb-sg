@@ -53,14 +53,7 @@ ui <- fluidPage(
     
     # Inject Third-Party Tracking Scripts & Meta Tags
     tags$head(
-      # --- MICROSOFT CLARITY ---
-      tags$script(HTML("
-      (function(c,l,a,r,i,t,y){
-          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-          t=l.createElement(r);t.async=1;t.src='https://www.clarity.ms/tag/'+i;
-          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-      })(window, document, 'clarity', 'script', 'xpfuw4k1bu');
-    ")),
+      tags$script(src = "clarity.js"),
       
       # Custom CSS Styles
       tags$style(HTML("
@@ -81,30 +74,11 @@ ui <- fluidPage(
     "))
     ),
   
-  tags$head(
-    tags$style(HTML("
-      .hero-banner {
-        width: 100%;
-        height: auto;
-        max-height: 350px;
-        object-fit: cover;
-        border-radius: 6px;
-        margin-bottom: 25px;
-      }
-      .sidebar-panel {
-        background-color: #f8f9fa;
-        padding: 20px;
-        border-radius: 8px;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-      }
-    "))
-  ),
-  
   div(
     img(src = "hdbimage.jpg", class = "hero-banner")
   ),
   
-  titlePanel("HDB Financial Strategy Engine for Singles"),
+  titlePanel("HDB Housing Strategy Caluculator for Singles"),
   p("Empirical wealth forecasting and cash flow feasibility mapping across multiple housing configurations."),
   hr(),
   
@@ -138,7 +112,7 @@ ui <- fluidPage(
       sliderInput(
         inputId = "monthly_budget",
         label   = "Maximum Comfortable Monthly Housing Budget ($/month):",
-        min     = 1500,
+        min     = 1000,
         max     = 7000,
         value   = 3500,
         step    = 100,
@@ -154,8 +128,20 @@ ui <- fluidPage(
       ),
       
       hr(),
-      tags$h4("Step 3: Macro Controls"),
+      tags$h4("Step 3: Factor in Interest Rate and Rental"),
       
+      numericInput(
+        inputId = "interest_rate",
+        label   = "Annual Mortgage Interest Rate (%):",
+        value   = 3.5,     # Central scenario default
+        min     = 1.0,     # Lower bound
+        max     = 10.0,    # Upper bound
+        step    = 0.1      # Allows fine tuning (e.g., 3.25%)
+      ),
+      tags$span(
+        style = "font-size: 0.85em; color: #6c757d; margin-top: -10px; display: block; margin-bottom: 15px;",
+        "Reference Benchmarks: HDB Concessionary ~2.6% | Bank Low ~3.5% | Bank High ~4.5%"
+      ),
       numericInput(
         inputId = "base_rent",
         label   = "Current Monthly Rental Baseline ($):",
@@ -167,7 +153,7 @@ ui <- fluidPage(
     
     mainPanel(
       tabsetPanel(
-        tabPanel("Wealth Projection Matrix", 
+        tabPanel("Future 5-Year Housing Wealth Projection Matrix", 
                  br(),
                  plotOutput("networth_plot", height = "500px"),
                  br(),
@@ -181,6 +167,7 @@ ui <- fluidPage(
     )
   )
 )
+)
 
 # =====================================================================
 # PART 3: DYNAMIC SERVER CONTROLLER REGIME (server)
@@ -193,7 +180,10 @@ server <- function(input, output, session) {
   }
   
   results_data <- reactive({
-    req(input$selected_towns, input$selected_room_types)
+    req(input$selected_towns, input$selected_room_types, input$interest_rate)
+    
+    # Convert percentage input (e.g. 3.5) to decimal (0.035)
+    interest_rate <- input$interest_rate / 100
     
     sim_grid <- crossing(
       town      = input$selected_towns,
@@ -324,11 +314,11 @@ server <- function(input, output, session) {
     
     winner <- df %>% arrange(desc(net_worth_5y)) %>% slice(1)
     
-    paste0("Operational Feasibility Sweep Complete. Within your stated monthly cost budget envelope of ", 
+    paste0("Within your stated monthly cost budget envelope of ", 
            scales::dollar(input$monthly_budget), ", the strategy maximizing capital generation over 5 years is the ", 
            toupper(winner$path), " pathway tracking a ", winner$flat_type, " configuration inside ", winner$town, 
            ". This delivers a 5-year equity footprint outcome of ", scales::dollar(winner$net_worth_5y), 
-           ". Configurations that break your comfortable cash flow bounds have been automatically flagged with warning markers.")
+           ". Configurations that break your comfortable cash flow bounds (i.e not possible under factors input) have been automatically flagged with warning markers.")
   })
 }
 

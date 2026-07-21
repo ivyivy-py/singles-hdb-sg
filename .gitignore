@@ -9,3 +9,9 @@
 # Deployment secrets & local configs
 .RdsData
 rsconnect/
+
+# Ignore temporary knitted/rendered assets if needed
+.quarto/
+
+# Ignore large raw dataset dumps if they exceed GitHub limits (>50MB)
+# data/spatial/*.shp
