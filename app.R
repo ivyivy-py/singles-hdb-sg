@@ -78,7 +78,7 @@ ui <- fluidPage(
     img(src = "hdbimage.jpg", class = "hero-banner")
   ),
   
-  titlePanel("HDB Housing Strategy Caluculator for Singles"),
+  titlePanel("For Singles : HDB Housing Strategy Calculator"),
   p("Empirical wealth forecasting and cash flow feasibility mapping across multiple housing configurations."),
   hr(),
   
@@ -113,7 +113,7 @@ ui <- fluidPage(
         inputId = "monthly_budget",
         label   = "Maximum Comfortable Monthly Housing Budget ($/month):",
         min     = 1000,
-        max     = 7000,
+        max     = 10000,
         value   = 3500,
         step    = 100,
         pre     = "$"
@@ -122,7 +122,7 @@ ui <- fluidPage(
       numericInput(
         inputId = "cash_injection",
         label   = "Available Cash / CPF Downpayment (For Resale Path):",
-        value   = 150000,
+        value   = 100000,
         min     = 0,
         step    = 5000
       ),
